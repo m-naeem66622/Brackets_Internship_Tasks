@@ -32,9 +32,14 @@ header .nav-item.btn:active a {
     .image__wrapper {
         width: 50% !important;
     }
+
+    .rounded-md-start {
+        border-bottom-left-radius: var(--bs-border-radius) !important;
+        border-top-left-radius: var(--bs-border-radius) !important;
+    }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
     .image__wrapper {
         width: 100% !important;
     }

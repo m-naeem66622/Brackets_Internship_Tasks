@@ -1,0 +1,3 @@
+[submodule "tasks/frontend/basic-todo-app"]
+	path = tasks/frontend/basic-todo-app
+	url = https://github.com/m-naeem66622/basic-todo-app.git

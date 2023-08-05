@@ -4,3 +4,7 @@
 [submodule "tasks/frontend/studio-design-landing-page"]
 	path = tasks/frontend/studio-design-landing-page
 	url = https://github.com/m-naeem66622/studio-design-landing-page.git
+[submodule "tasks/backend/doc24-7-project"]
+	path = tasks/backend/doc24-7-project
+	url = https://github.com/m-naeem66622/doc24-7-project.git
+	branch = personal-branch

@@ -8,3 +8,20 @@
 	path = tasks/backend/doc24-7-project
 	url = https://github.com/m-naeem66622/doc24-7-project.git
 	branch = personal-branch
+[submodule "tasks/frontend/expense-tracker"]
+	path = tasks/frontend/expense-tracker
+	url = https://github.com/m-naeem66622/expense-tracker.git
+[submodule "tasks/frontend/dynamic-forms"]
+	path = tasks/frontend/dynamic-forms
+	url = https://github.com/m-naeem66622/dynamic-forms.git
+[submodule "tasks/frontend/quizzo-app"]
+	path = tasks/frontend/quizzo-app
+	url = https://github.com/m-naeem66622/quizzo-app.git
+[submodule "tasks/frontend/simple-ecommerce-by-props-drilling"]
+	path = tasks/frontend/simple-ecommerce-by-props-drilling
+	url = https://github.com/m-naeem66622/simple-e-commerce.git
+	branch = master
+[submodule "tasks/frontend/simple-ecommerce-by-context"]
+	path = tasks/frontend/simple-ecommerce-by-context
+	url = https://github.com/m-naeem66622/simple-e-commerce.git
+	branch = using-context
